@@ -1,5 +1,5 @@
 # GPT AI Assistant
-Interested in using this scraper? Get it here: [GPT AI Assistant](https://apify.com/curious_coder/ai-assistant)
+Interested in using this scraper? Get it here: [GPT AI Assistant](https://apify.com/curious_coder/ai-assistant?fpr=ve081&fp_sid=github_ai-assistant)
 Introducing our Apify actor that empowers your dataset with the magic of AI! This tool takes the data you already have and, with a help of AI, amplifies it to give you more insights, possibilities, and actions.
 
 ## How Does It Work?
